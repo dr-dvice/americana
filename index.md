@@ -13,34 +13,35 @@ Python tool to detect potential gene misannotations by fusing
 adjacent genes and comparing their alignment scores against reference protein
 databases.
 
-➡️ **[github.com/txdylan27/GenoMiss](https://github.com/txdylan27/GenoMiss)**
+**[github.com/txdylan27/GenoMiss](https://github.com/txdylan27/GenoMiss)**
 
 ### GenoFrag
 Python tool to synthetically fragment genes in `.gff` and `.faa` files.
 
-➡️ **[github.com/dr-dvice/GenoFrag](https://github.com/dr-dvice/GenoFrag)**
+**[github.com/dr-dvice/GenoFrag](https://github.com/dr-dvice/GenoFrag)**
 
 ---
 
-## Analysis & figures
-
-### Figure / analysis scripts
-R and Python scripts used to produce the figures in the paper.
-
-🔜 *Repository coming soon.*
-
----
-
-## Pipelines
+## Analysis pipelines
 
 ### Single-cell atlas + SAMap pipeline
 Nextflow pipeline for building the optic lobe single-cell atlas and running
 cross-species SAMap comparisons.
 
-🔜 *Repository coming soon.*
+*Repository coming soon.*
 
 ### pySCENIC regulon pipeline
 Nextflow pipeline for gene regulatory network and regulon inference with
 pySCENIC.
 
-🔜 *Repository coming soon.*
+*Repository coming soon.*
+
+---
+
+## Figures
+
+### Figure scripts
+R and Python scripts that consume the analysis-pipeline outputs above to
+generate the paper's figures.
+
+**[github.com/dr-dvice/americana-figures](https://github.com/dr-dvice/americana-figures)**
