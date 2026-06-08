@@ -1,0 +1,8 @@
+# Jekyll build output (only relevant if you ever build locally)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS / editor cruft
+.DS_Store
+.idea/

@@ -1,0 +1,8 @@
+# GitHub Pages config (Tier 1: markdown + built-in Jekyll theme)
+# To change the look, swap the theme below for any supported one:
+#   jekyll-theme-cayman, jekyll-theme-minimal, jekyll-theme-slate, etc.
+theme: jekyll-theme-cayman
+
+title: Optic Lobe Evolution and GenoMiss Paper
+description: Code and data resources accompanying the paper
+# show_downloads / google_analytics etc. can be added later
