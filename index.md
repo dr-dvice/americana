@@ -28,7 +28,7 @@ Python tool to synthetically fragment genes in `.gff` and `.faa` files.
 Nextflow pipeline for building the optic lobe single-cell atlas and running
 cross-species SAMap comparisons.
 
-*Repository coming soon.*
+**[github.com/dr-dvice/americana-atlas-pipeline](https://github.com/dr-dvice/americana-atlas-pipeline)**
 
 ### pySCENIC regulon pipeline
 Nextflow pipeline for gene regulatory network and regulon inference with
