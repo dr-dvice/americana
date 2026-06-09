@@ -13,7 +13,7 @@ Python tool to detect potential gene misannotations by fusing
 adjacent genes and comparing their alignment scores against reference protein
 databases.
 
-**[github.com/txdylan27/GenoMiss](https://github.com/txdylan27/GenoMiss)**
+**[github.com/dr-dvice/GenoMiss](https://github.com/dr-dvice/GenoMiss)**
 
 ### GenoFrag
 Python tool to synthetically fragment genes in `.gff` and `.faa` files.
