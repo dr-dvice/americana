@@ -34,7 +34,7 @@ cross-species SAMap comparisons.
 Nextflow pipeline for gene regulatory network and regulon inference with
 pySCENIC.
 
-*Repository coming soon.*
+**[github.com/dr-dvice/americana-pyscenic-pipeline](https://github.com/dr-dvice/americana-pyscenic-pipeline)**
 
 ---
 
